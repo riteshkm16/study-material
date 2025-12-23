@@ -1,9 +1,9 @@
-/.idea
-/out
-..DS_Store
+.idea/
+out/
 
 # Compiled class file
 *.class
+
 
 # Log file
 *.log
